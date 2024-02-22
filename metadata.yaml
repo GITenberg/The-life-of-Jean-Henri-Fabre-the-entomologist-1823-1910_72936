@@ -1,0 +1,37 @@
+_repo: The-life-of-Jean-Henri-Fabre-the-entomologist-1823-1910_72936
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+    wikipedia: https://en.wikipedia.org/wiki/Bernard_Miall
+creator:
+  author:
+    agent_name: Fabre, Augustin
+    gutenberg_agent_id: '56865'
+    url: http://www.gutenberg.org/2009/agents/56865
+description: ''
+gutenberg_issued: '2024-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72936'
+language: en
+pgterms:marc904: https://archive.org/details/lifeofjeanhenrif00fabruoft/page/n5/mode/2up
+pgterms:marc905: 20200420113030fabre
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aNew York :$bDodd, Mead and Company, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The life of Jean Henri Fabre, the entomologist, 1823-1910
+url: http://www.gutenberg.org/ebooks/72936
