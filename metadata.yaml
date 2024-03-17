@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Miall
+covers:
+- cover_type: archival
+  image_path: 72936-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Fabre, Augustin
     gutenberg_agent_id: '56865'
     url: http://www.gutenberg.org/2009/agents/56865
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72936#The-life-of-Jean-Henri-Fabre-the-entomologist-1823-1910
 gutenberg_issued: '2024-02-12'
 gutenberg_type: Text
 identifiers:
